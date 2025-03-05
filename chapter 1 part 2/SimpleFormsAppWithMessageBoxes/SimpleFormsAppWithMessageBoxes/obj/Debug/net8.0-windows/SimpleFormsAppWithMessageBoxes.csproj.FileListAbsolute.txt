@@ -1,0 +1,16 @@
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\bin\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.exe
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\bin\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.deps.json
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\bin\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.runtimeconfig.json
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\bin\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\bin\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.pdb
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.Form1.resources
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.csproj.GenerateResource.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.AssemblyInfoInputs.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.AssemblyInfo.cs
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.csproj.CoreCompileInputs.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithMessageBoxes.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.pdb
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\SimpleFormsAppWithMessageBoxes.genruntimeconfig.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithMessageBoxes\SimpleFormsAppWithMessageBoxes\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithMessageBoxes.dll
