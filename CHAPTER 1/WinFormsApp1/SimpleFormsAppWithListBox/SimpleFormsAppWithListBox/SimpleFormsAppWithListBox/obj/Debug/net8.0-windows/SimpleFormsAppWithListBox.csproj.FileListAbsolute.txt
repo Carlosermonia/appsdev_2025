@@ -1,0 +1,16 @@
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithListBox.exe
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithListBox.deps.json
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithListBox.runtimeconfig.json
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithListBox.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\bin\Debug\net8.0-windows\SimpleFormsAppWithListBox.pdb
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.Form1.resources
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.csproj.GenerateResource.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.AssemblyInfoInputs.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.AssemblyInfo.cs
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.csproj.CoreCompileInputs.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\refint\SimpleFormsAppWithListBox.dll
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.pdb
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\SimpleFormsAppWithListBox.genruntimeconfig.cache
+C:\Users\OO143\source\repos\SimpleFormsAppWithListBox\SimpleFormsAppWithListBox\obj\Debug\net8.0-windows\ref\SimpleFormsAppWithListBox.dll
