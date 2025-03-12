@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFormsAppWithCheckedListBox", "SimpleFormsAppWithCheckedListBox\SimpleFormsAppWithCheckedListBox.csproj", "{7630C403-47BB-41D2-94E2-5C84A7BB5E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7630C403-47BB-41D2-94E2-5C84A7BB5E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7630C403-47BB-41D2-94E2-5C84A7BB5E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7630C403-47BB-41D2-94E2-5C84A7BB5E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7630C403-47BB-41D2-94E2-5C84A7BB5E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {510F8F82-6DEF-4938-8107-F66CF8943785}
+	EndGlobalSection
+EndGlobal
