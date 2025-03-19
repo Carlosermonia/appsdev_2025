@@ -1,0 +1,16 @@
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\bin\Debug\net8.0-windows\MidtermExaminationApp.exe
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\bin\Debug\net8.0-windows\MidtermExaminationApp.deps.json
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\bin\Debug\net8.0-windows\MidtermExaminationApp.runtimeconfig.json
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\bin\Debug\net8.0-windows\MidtermExaminationApp.dll
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\bin\Debug\net8.0-windows\MidtermExaminationApp.pdb
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.Form1.resources
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.csproj.GenerateResource.cache
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.AssemblyInfoInputs.cache
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.AssemblyInfo.cs
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.csproj.CoreCompileInputs.cache
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.dll
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\refint\MidtermExaminationApp.dll
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.pdb
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\MidtermExaminationApp.genruntimeconfig.cache
+C:\Users\OO143\source\repos\MidtermExaminationApp\MidtermExaminationApp\obj\Debug\net8.0-windows\ref\MidtermExaminationApp.dll
